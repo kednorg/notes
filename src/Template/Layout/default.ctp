@@ -78,7 +78,7 @@ $cakeDescription = 'Strona notatek';
             <?= $this->Flash->render() ?>
         </p>
         <div class="page-header">
-            <h3>System notatek
+            <h3>System notatek bu
                 <small>
                     <?php
                     $user = $this->request->Session()->read('Auth.User.username');
